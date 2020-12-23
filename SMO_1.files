@@ -1,0 +1,17 @@
+automode.cpp
+automode.h
+device.cpp
+device.h
+main.cpp
+mainwindow.cpp
+mainwindow.h
+request.cpp
+request.h
+selectionmanager.cpp
+selectionmanager.h
+source.cpp
+source.h
+stagingmanager.cpp
+stagingmanager.h
+stepmode.cpp
+stepmode.h
